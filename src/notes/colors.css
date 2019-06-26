@@ -1,0 +1,29 @@
+:root {
+    --black-100:;
+    --black-200:;
+    --black-300:;
+    --black-400:;
+    --black-500:;
+    --black-600:;
+    --black-700:;
+    --black-800:;
+    --black-900:;
+    --black: #000000;
+
+    --white-100:;
+    --white-200:;
+    --white-300:;
+    --white-400:;
+    --white-500:;
+    --white-600:;
+    --white-700:;
+    --white-800:;
+    --white-900:;
+    --white: #ffffff;
+}
+
+/* Background Colors */
+.bgc-black-100 { background-color: var(--black-100);}
+
+/* Font Colors */
+.font-black-100 { color: var(--black-100);}

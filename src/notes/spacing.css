@@ -1,0 +1,20 @@
+:root {
+    /* font-based spacing */
+    --f-space-xxl: 128px;
+    --f-space-xl: 64px;
+    --f-space-l: 48px;
+    --f-space-m: 24px;
+    --f-space-s: 16px;
+    --f-space-xs: 8px;
+    --f-space-xxs: 4px;
+
+    /* layout spacing */
+    --lo-space-xxl: 128px;
+    --lo-space-xl: 64px;
+    --lo-space-l: 48px;
+    --lo-space-m: 24px;
+    --lo-space-s: 1rem;
+    --lo-space-xs: 8px;
+    --lo-space-xxs: 4px;
+
+}
