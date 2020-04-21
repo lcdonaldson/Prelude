@@ -3,9 +3,9 @@
     --l-spc-u: 1rem;
     --f-spc-u: 1em;
 
-    --xs:;
-    --s:;
+    --xs: 0.25rem;
+    --s: 0.50rem;
     --med: 1rem;
-    --lg:;
-    --xl:;
+    --lg: 2rem;
+    --xl: 3rem;
 }
