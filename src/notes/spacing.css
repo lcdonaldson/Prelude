@@ -1,21 +1,21 @@
 :root {
     font-size: 24px;
     /* font-based spacing */
-    --pl-f-spc-xxl: 5em;
-    --pl-f-spc-xl: 3em;
-    --pl-f-spc-l: 2em;
-    --pl-f-spc-m: 1em;
-    --pl-f-spc-s: 0.5em;
-    --pl-f-spc-xs: 0.3em;
-    --pl-f-spc-xxs: 0.1em;
+    --f-spc-xxl: 5em;
+    --f-spc-xl: 3em;
+    --f-spc-l: 2em;
+    --f-spc-m: 1em;
+    --f-spc-s: 0.5em;
+    --f-spc-xs: 0.3em;
+    --f-spc-xxs: 0.1em;
 
     /* layout spacing */
-    --pl-lo-spc-xxl: 5rem;
-    --pl-lo-spc-xl: 5rem;
-    --pl-lo-spc-l: 2rem;
-    --pl-lo-spc-m: 1rem;
-    --pl-lo-spc-s: 0.5rem;
-    --pl-lo-spc-xs: 0.3rem;
-    --pl-lo-spc-xxs: 0.1rem;
+    --lo-spc-xxl: 5rem;
+    --lo-spc-xl: 5rem;
+    --lo-spc-l: 2rem;
+    --lo-spc-m: 1rem;
+    --lo-spc-s: 0.5rem;
+    --lo-spc-xs: 0.3rem;
+    --lo-spc-xxs: 0.1rem;
 
 }
