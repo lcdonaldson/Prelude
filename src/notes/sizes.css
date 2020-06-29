@@ -1,9 +1,9 @@
+font-size: 16px;
 :root {
-    font-size: 1rem;
-    --l-spc-u: 1rem;
-    --f-spc-u: 1em;
+    --LO-med: 1rem;
+    --F-med: 1em;
 
-    --xs: 0.25rem;
+    --LO-xs: 0.25rem;
     --s: 0.50rem;
     --med: 1rem;
     --lg: 2rem;
