@@ -30,6 +30,7 @@
 .bgc-wht-300 { background-color: var(--white-300);}
 .bgc-wht-400 { background-color: var(--white-400);}
 .bgc-wht-500 { background-color: var(--white-500);}
+.bgc-wht-600 { background-color: var(--white-600);}
 
 /* Font Colors */
 .f-blk-100 { color: var(--black-100);}
